@@ -7,6 +7,7 @@ import { HeaderNav } from '~/components/header-nav'
 const Home = async () => {
   const aggregateTitles = getTotalTitles()
   const { totalTitles = '0' } = await aggregateTitles
+  // console.log(globalThis.EdgeRuntime) // should print "edge-runtime"
 
   return (
     <main>
