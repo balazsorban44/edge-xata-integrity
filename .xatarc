@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Bal-zs-Orb-n-s-workspace-6q9fhb.eu-west-1.xata.sh/db/test",
+  "codegen": {
+    "output": "lib/xata.codegen.server.ts"
+  }
+}
